@@ -1,4 +1,4 @@
-# Calculator
+# Calculator-Public
 ### Description:<br />
 This program is a calculator that solves complicated expressions following the correct order of operations (solving in the order: parentheses, exponents, multiplication and division from left to right, and addition and subtraction from left to right).
 
